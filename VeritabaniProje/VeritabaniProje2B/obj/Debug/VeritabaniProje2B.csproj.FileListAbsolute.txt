@@ -1,0 +1,376 @@
+C:\Users\BGL-2 HOCA\Desktop\Gorsel2B\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe.config
+C:\Users\BGL-2 HOCA\Desktop\Gorsel2B\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe
+C:\Users\BGL-2 HOCA\Desktop\Gorsel2B\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.pdb
+C:\Users\BGL-2 HOCA\Desktop\Gorsel2B\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.AssemblyReference.cache
+C:\Users\BGL-2 HOCA\Desktop\Gorsel2B\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Form1.resources
+C:\Users\BGL-2 HOCA\Desktop\Gorsel2B\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Properties.Resources.resources
+C:\Users\BGL-2 HOCA\Desktop\Gorsel2B\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.GenerateResource.cache
+C:\Users\BGL-2 HOCA\Desktop\Gorsel2B\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CoreCompileInputs.cache
+C:\Users\BGL-2 HOCA\Desktop\Gorsel2B\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.exe
+C:\Users\BGL-2 HOCA\Desktop\Gorsel2B\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta3\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe.config
+C:\Gorsel2\Uygulamalar\2B\Hafta3\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta3\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta3\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Form1.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta3\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Properties.Resources.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta3\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.GenerateResource.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta3\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CoreCompileInputs.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta3\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta3\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta3\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitEkleForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta3\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.AssemblyReference.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta4\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe.config
+C:\Gorsel2\Uygulamalar\2B\Hafta4\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta4\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta4\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.AssemblyReference.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta4\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Form1.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta4\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitEkleForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta4\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Properties.Resources.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta4\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.GenerateResource.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta4\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CoreCompileInputs.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta4\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta4\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta4\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitSilForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta5\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe.config
+C:\Gorsel2\Uygulamalar\2B\Hafta5\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta5\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta5\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.AssemblyReference.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta5\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Form1.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta5\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitDegistirForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta5\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitEkleForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta5\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitSilForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta5\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Properties.Resources.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta5\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.GenerateResource.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta5\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CoreCompileInputs.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta5\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta5\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta6\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe.config
+C:\Gorsel2\Uygulamalar\2B\Hafta6\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta6\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta6\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.AssemblyReference.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta6\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Form1.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta6\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitDegistirForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta6\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitEkleForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta6\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitSilForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta6\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Properties.Resources.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta6\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.GenerateResource.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta6\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CoreCompileInputs.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta6\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta6\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta7\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe.config
+C:\Gorsel2\Uygulamalar\2B\Hafta7\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta7\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta7\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.AssemblyReference.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta7\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Form1.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta7\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitDegistirForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta7\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitEkleForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta7\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitSilForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta7\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Properties.Resources.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta7\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.GenerateResource.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta7\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CoreCompileInputs.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta7\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta7\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta9\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe.config
+C:\Gorsel2\Uygulamalar\2B\Hafta9\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta9\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta9\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Form1.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta9\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitDegistirForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta9\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitEkleForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta9\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitSilForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta9\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Properties.Resources.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta9\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.GenerateResource.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta9\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CoreCompileInputs.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta9\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta9\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta9\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.AssemblyReference.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe.config
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.AssemblyReference.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.BirimTanimlamaForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Form1.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitDegistirForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitEkleForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitSilForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Properties.Resources.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.GenerateResource.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CoreCompileInputs.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta10\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe.config
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.AssemblyReference.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.BirimTanimlamaForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Form1.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitDegistirForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitEkleForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitSilForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Properties.Resources.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.GenerateResource.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CoreCompileInputs.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta11\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KullaniciGirisForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe.config
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.AssemblyReference.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.BirimTanimlamaForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Form1.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitDegistirForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitEkleForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitSilForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KullaniciGirisForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Properties.Resources.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.GenerateResource.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CoreCompileInputs.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta12\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KullaniciislemForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe.config
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.AssemblyReference.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.BirimTanimlamaForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Form1.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitDegistirForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitEkleForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitSilForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KullaniciGirisForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KullaniciislemForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Properties.Resources.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.GenerateResource.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CoreCompileInputs.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\vt2B.mdf
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\vt2B_log.ldf
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\EnvDTE.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\stdole.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.MSXML.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.PersonelRaporForm1.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\RdlCompile.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\RdlCompile.compiled
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CopyComplete
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.PersonelRaporForm2.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta13\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KullaniciRaporForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\vt2B.mdf
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\vt2B_log.ldf
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe.config
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.pdb
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\EnvDTE.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\stdole.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.MSXML.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.AssemblyReference.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.BirimTanimlamaForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Form1.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitDegistirForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitEkleForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitSilForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KullaniciGirisForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KullaniciislemForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KullaniciRaporForm.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.PersonelRaporForm1.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.PersonelRaporForm2.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Properties.Resources.resources
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.GenerateResource.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\RdlCompile.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\RdlCompile.compiled
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CoreCompileInputs.cache
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CopyComplete
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.exe
+C:\Gorsel2\Uygulamalar\2B\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.pdb
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\vt2B.mdf
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\vt2B_log.ldf
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe.config
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.exe
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\VeritabaniProje2B.pdb
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\EnvDTE.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\stdole.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.AssemblyReference.cache
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.BirimTanimlamaForm.resources
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Form1.resources
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitDegistirForm.resources
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitEkleForm.resources
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KayitSilForm.resources
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KullaniciGirisForm.resources
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KullaniciislemForm.resources
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.KullaniciRaporForm.resources
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.PersonelRaporForm1.resources
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.PersonelRaporForm2.resources
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.Properties.Resources.resources
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.GenerateResource.cache
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\RdlCompile.cache
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\RdlCompile.compiled
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CoreCompileInputs.cache
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.csproj.CopyComplete
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.exe
+C:\Users\ENES KARADAYI\Desktop\Hafta14\VeritabaniProje2B\VeritabaniProje2B\obj\Debug\VeritabaniProje2B.pdb
